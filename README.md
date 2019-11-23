@@ -1,5 +1,5 @@
 # Git
-This is a Repository for the Git Course on ToolsQA.....
+A Repository for the Git Course on ToolsQA.....
 
 <<<<<<< HEAD
 #Changes done on Local
