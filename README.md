@@ -6,3 +6,5 @@ A Repository for the Git Course on ToolsQA.....
 =======
 #Demonstarting the merge conflict
 >>>>>>> e69bd123f6c641f6eb69961c05efe92644f27eed
+
+Adding Tags
